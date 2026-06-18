@@ -1,0 +1,16 @@
+Internet
+   │
+OPNsense Firewall
+   │
+Managed Switch
+   │
+ ┌─────────────┐
+ │   Proxmox   │
+ └─────────────┘
+      │
+ ├── Windows Server
+ ├── Windows 11
+ ├── Ubuntu
+ └── Kali Linux
+
+Azure Arc Connectedpps
